@@ -1,7 +1,3 @@
-//codigo del conversor de unidades de medida Kilómetros a millas
-//Litros a galones
-//Gramos a onzas
-//Centímetros a pulgadas por consola 
 import java.util.Scanner;
 
 public class Conversor {
@@ -48,3 +44,4 @@ public class Conversor {
         scanner.close();
     }
 }
+
